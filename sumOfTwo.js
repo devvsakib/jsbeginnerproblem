@@ -15,5 +15,4 @@ function findTargetedSumArr(sortedArr, target) {
 
 const ar = [1, 3, 6, 8, 11, 15];
 const targetVal = 11;
-const result = findTargetedSumArr(ar, targetVal);
-console.log(result);
+console.log(findTargetedSumArr(ar, targetVal));
